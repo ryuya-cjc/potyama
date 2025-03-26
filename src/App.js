@@ -1,14 +1,15 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './App.css'; // CSSが必要な場合
+
+// 画像をインポート
+import myImage from './potyma1.png';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>Hello from V2</h1>
-      </header>
+      <h1>Welcome to My App!</h1>
+      {/* インポートした画像を表示 */}
+      <img src={myImage} alt="My Image" />
     </div>
   );
 }
