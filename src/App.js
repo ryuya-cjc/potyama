@@ -14,6 +14,7 @@ function App() {
 
   // ボタンが押された時の処理
   const handleButtonClick = () => {
+    alert("ボタンがクリックされました！");
     setDisplayText(inputValue); // 入力したテキストを表示
   };
 
