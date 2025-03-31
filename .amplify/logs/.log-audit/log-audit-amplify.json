@@ -1,0 +1,34 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "C:\\Users\\吉田龍哉\\.amplify\\logs\\.log-audit\\log-audit-amplify.json",
+    "files": [
+        {
+            "date": 1742920848130,
+            "name": "C:\\Users\\吉田龍哉\\.amplify\\logs\\amplify-cli-2025-03-26.log",
+            "hash": "bc33428fa4e5fe407cb248ccc0ced5a0"
+        },
+        {
+            "date": 1743005025516,
+            "name": "C:\\Users\\吉田龍哉\\.amplify\\logs\\amplify-cli-2025-03-27.log",
+            "hash": "5661ff874072ae5c5e49605279aa0c84"
+        },
+        {
+            "date": 1743132010895,
+            "name": "C:\\Users\\吉田龍哉\\.amplify\\logs\\amplify-cli-2025-03-28.log",
+            "hash": "10fa89bb6a592e5a4cc65e00527a732a"
+        },
+        {
+            "date": 1743432126059,
+            "name": "C:\\Users\\吉田龍哉\\.amplify\\logs\\amplify-cli-2025-03-31.log",
+            "hash": "c8ed7c8be1c610fb8e9ce319a749199f"
+        },
+        {
+            "date": 1743434835798,
+            "name": "C:\\Users\\吉田龍哉\\.amplify\\logs\\amplify-cli-2025-04-01.log",
+            "hash": "189a364e2e45e7c354fc3f827a508dfa"
+        }
+    ]
+}
