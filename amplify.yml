@@ -1,0 +1,8 @@
+version: 1
+backend:
+  phases:
+    preBuild:
+      commands:
+        - export AWS_ACCESS_KEY_ID=$AMPLIFY_ACCESS_KEY_ID
+        - export AWS_SECRET_ACCESS_KEY=$AMPLIFY_SECRET_ACCESS_KEY
+        - export AWS_REGION=$AMPLIFY_REGION
