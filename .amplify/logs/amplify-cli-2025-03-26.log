@@ -1,7 +1,0 @@
-2025-03-25T16:40:48.136Z|info : amplify version core  
-2025-03-25T16:42:11.531Z|info : amplify configure core  
-2025-03-25T16:42:11.563Z|info : @aws-amplify/amplify-cli-core.banner-message/index.ts.fetch banner messages from https://aws-amplify.github.io/amplify-cli/banner-message.json({}
-2025-03-25T16:45:48.612Z|info : amplify init core  
-2025-03-25T16:45:48.642Z|info : @aws-amplify/amplify-cli-core.banner-message/index.ts.fetch banner messages from https://aws-amplify.github.io/amplify-cli/banner-message.json({}
-2025-03-25T16:45:58.468Z|info : amplify init core  
-2025-03-25T16:45:58.497Z|info : @aws-amplify/amplify-cli-core.banner-message/index.ts.fetch banner messages from https://aws-amplify.github.io/amplify-cli/banner-message.json({}

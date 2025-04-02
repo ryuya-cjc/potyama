@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "potyama",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-potyama-dev-bf177-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/f2a43aa1bc26c3b6c0ea6983652f717265b454d3"
+}

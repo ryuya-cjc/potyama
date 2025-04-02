@@ -1,5 +1,0 @@
-2025-03-31T14:42:06.092Z|info : amplify console core  
-2025-03-31T14:42:06.162Z|info : @aws-amplify/amplify-cli-core.banner-message/index.ts.fetch banner messages from https://aws-amplify.github.io/amplify-cli/banner-message.json({}
-2025-03-31T14:49:39.114Z|info : amplify status core  {"yes":false}
-2025-03-31T14:49:39.153Z|info : @aws-amplify/amplify-cli-core.banner-message/index.ts.fetch banner messages from https://aws-amplify.github.io/amplify-cli/banner-message.json({}
-2025-03-31T14:49:41.523Z|info : amplify-provider-awscloudformation.display-helpful-urls.showCognitoSandBoxMessage(["potyama9dbd4c2a"])
