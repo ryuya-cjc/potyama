@@ -40,7 +40,7 @@
         "s3TemplateURL": "https://s3.amazonaws.com/amplify-potyama-dev-bf177-deployment/amplify-cfn-templates/auth/potyama9dbd4c2a-cloudformation-template.json",
         "logicalId": "authpotyama9dbd4c2a"
       },
-      "lastPushTimeStamp": "2025-04-02T06:22:56.937Z",
+      "lastPushTimeStamp": "2025-05-02T08:08:02.210Z",
       "output": {
         "UserPoolId": "ap-northeast-1_yIsCez5gi",
         "AppClientIDWeb": "1umvv25jcingsc7jgm0o2dhunn",
@@ -76,7 +76,7 @@
         "s3TemplateURL": "https://s3.amazonaws.com/amplify-potyama-dev-bf177-deployment/amplify-cfn-templates/api/cloudformation-template.json",
         "logicalId": "apipotyama"
       },
-      "lastPushTimeStamp": "2025-04-02T06:22:56.943Z",
+      "lastPushTimeStamp": "2025-05-02T08:08:02.212Z",
       "lastPushDirHash": "ijFQpByPp2Tk+jyjaMHdSsIbMl8="
     }
   }

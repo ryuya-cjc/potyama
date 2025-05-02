@@ -9,14 +9,17 @@
       "UnauthRoleName": "amplify-potyama-dev-bf177-unauthRole",
       "StackName": "amplify-potyama-dev-bf177",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:189930017341:stack/amplify-potyama-dev-bf177/a031cd80-0aa7-11f0-a4b3-0e17bc43fb77",
-      "AmplifyAppId": "d10pdl03v5ab41"
+      "AmplifyAppId": "d10pdl03v5ab41",
+      "S3DeploymentRootKey": "amplify-builds"
     },
     "categories": {
-      "auth": {
-        "potyama9dbd4c2a": {}
-      },
       "api": {
         "potyama": {}
+      },
+      "auth": {
+        "potyama09e2faf4": {},
+        "authpotyama": {},
+        "potyama9dbd4c2a": {}
       }
     }
   }
